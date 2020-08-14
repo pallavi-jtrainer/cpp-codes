@@ -1,0 +1,11 @@
+Design Patterns
+https://refactoring.guru/design-patterns/cpp
+https://sourcemaking.com/design_patterns
+
+Lambda functions
+https://dzone.com/articles/all-about-lambda-functions-in-cfrom-c11-to-c17
+
+Mutex and Semaphores
+https://austingwalters.com/multithreading-semaphores/
+https://www.justsoftwaresolutions.co.uk/threading/locks-mutexes-semaphores.html
+https://riptutorial.com/cplusplus/example/30142/semaphore-cplusplus-11
